@@ -1,7 +1,7 @@
 # Chatbot-Ai
 I developed this portfolio Chatbot Ai using Python Pandas Matplotlib Lstm Tkinter
 
-Import Libray & Load the Dataset
+Import Libray and load the Dataset
 Data Preprocessing
 Exploratory Data Analysis (EDA)
 Feature Engineering
